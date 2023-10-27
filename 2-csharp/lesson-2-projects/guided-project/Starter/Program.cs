@@ -13,7 +13,7 @@ int sophiaSum = 0;
 decimal sophiaScore;
 foreach (int score in sophiaScores)
 {
-    
+    sophiaSum+=score;
 }
 
 sophiaScore = (decimal)sophiaSum / currentAssignments;
