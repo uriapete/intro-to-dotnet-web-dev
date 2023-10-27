@@ -3,6 +3,8 @@
 // initialize variables - graded assignments 
 int currentAssignments = 5;
 
+int[] sophiaScores=new int[5];
+
 int sophia1 = 90;
 int sophia2 = 86;
 int sophia3 = 87;
