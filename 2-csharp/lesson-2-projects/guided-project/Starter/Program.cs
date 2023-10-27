@@ -11,6 +11,10 @@ int[] loganScores=new int[5]{90,95,87,88,96};
 int sophiaSum = 0;
 
 decimal sophiaScore;
+foreach (int score in sophiaScores)
+{
+    
+}
 
 sophiaScore = (decimal)sophiaSum / currentAssignments;
 
