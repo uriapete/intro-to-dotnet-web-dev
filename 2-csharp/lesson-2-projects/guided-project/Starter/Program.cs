@@ -4,12 +4,7 @@
 int currentAssignments = 5;
 
 int[] sophiaScores=new int[5]{90,86,87,98,100};
-
-int andrew1 = 92;
-int andrew2 = 89;
-int andrew3 = 81;
-int andrew4 = 96;
-int andrew5 = 90;
+int[] andrewScores=new int[5]{92,89,81,96,90};
 
 int emma1 = 90;
 int emma2 = 85;
@@ -34,7 +29,7 @@ decimal emmaScore;
 decimal loganScore;
 
 // sophiaSum = sophia1 + sophia2 + sophia3 + sophia4 + sophia5;
-andrewSum = andrew1 + andrew2 + andrew3 + andrew4 + andrew5;
+// andrewSum = andrew1 + andrew2 + andrew3 + andrew4 + andrew5;
 emmaSum = emma1 + emma2 + emma3 + emma4 + emma5;
 loganSum = logan1 + logan2 + logan3 + logan4 + logan5;
 
